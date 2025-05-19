@@ -1,5 +1,5 @@
 import {useCallback, useState} from 'react';
-import { useShortcut } from '../hooks/useShortcut.ts';
+import { useShortcut } from '../../hooks/useShortcut.ts';
 import './app.css';
 
 function App() {
